@@ -1,0 +1,13 @@
+mlflow==3.10.0
+statsmodels
+optuna
+optuna-integration[mlflow]
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
+requests
+azure-storage-blob
+psycopg2-binary
+python-dotenv

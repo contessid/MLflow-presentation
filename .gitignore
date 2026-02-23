@@ -1,0 +1,6 @@
+.env
+data/jena_daily_temp.csv
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+forecast.png
